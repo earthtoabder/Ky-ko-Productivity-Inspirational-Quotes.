@@ -16,3 +16,5 @@ Dependencies to install with npm:
 Browserify
 Brfs
 ```
+
+- For the quotes I made a simple web scrapper for brainyquotes.com you can find the repository on my profile or here's the link for it:
