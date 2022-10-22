@@ -1,7 +1,7 @@
 # Kyūko: Productivity & Inspirational Quotes.
 An aesthetic and unique chrome extension tab with inspirational quotes that replaces the default chrome tab.
 
- - Here's the link to the bot account : 
+ - Here's the link to the chrome extension : 
 https://chrome.google.com/webstore/detail/ky%C5%ABko-productivity-inspir/jhmbgbaiaednmcfhgjchbcnlnbbldoal
 
 - And Here's my Twitter account if you need me for anything :
